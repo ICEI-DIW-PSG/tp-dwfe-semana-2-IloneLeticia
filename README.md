@@ -2,12 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: ilone leticia duarte moreira.
+Matricula:926464
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+!["tela de inspecao google"](<Captura de tela 2026-03-10 201304.png>)
+
+!["index html"](<Captura de tela 2026-03-10 202300.png>)
+
+
 
 
 
